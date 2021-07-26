@@ -6,3 +6,5 @@ Today is a sunny day!
 I love chocolates!
 
 Adding this line from the remote repository.
+
+Adding more lines again!
